@@ -1,0 +1,8 @@
+{
+  "name": "moonsong98.github.io",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "marked": "^4.0.18",
+    "zero-md": "^2.3.6"
+  }
+}
