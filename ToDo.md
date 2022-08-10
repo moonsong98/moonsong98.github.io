@@ -1,24 +1,7 @@
 # ToDo List
 
-## Metting Slides
-
-- [ ] RNN & LSTM
-
-## Recommendation System
-
-- DataSet
-  - LastFM (Music Recommendation)
-  - Yelp (Restaurant Recommendation)
-  - MovieLens-1M (Movie Recommendation)
-
-## Paper
-
-- [ ] Casual User Recommendation
-- [ ] Multi-armed Bandit
-
-## Django
-
-- [ ] Model
-- [ ] Database
-- [ ] Security
-- [ ] Template Engine
+- [ ] Docker 공부
+- [ ] Resume 작성
+  - [ ] AwesomeCV 이용해보기
+- [ ] 운동
+  - 가슴 & 삼두
